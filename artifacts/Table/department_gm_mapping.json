@@ -26,9 +26,9 @@
 	"foreignKeys": [],
 	"name": "department_gm_mapping",
 	"description": null,
-	"ver": "25.07.04.0841",
+	"ver": "25.07.04.1624",
 	"enableAudit": false,
-	"includeDataInPackage": false,
+	"includeDataInPackage": true,
 	"package": "6cd1d80d-0487-4f8b-ae76-5c06de706411",
 	"rolesRead": [],
 	"rolesWrite": []

@@ -50,9 +50,9 @@
 	"foreignKeys": [],
 	"name": "app_bussiness_trip",
 	"description": null,
-	"ver": "25.07.04.0840",
-	"enableAudit": false,
-	"includeDataInPackage": false,
+	"ver": "25.07.04.1623",
+	"enableAudit": true,
+	"includeDataInPackage": true,
 	"package": "6cd1d80d-0487-4f8b-ae76-5c06de706411",
 	"rolesRead": [],
 	"rolesWrite": []

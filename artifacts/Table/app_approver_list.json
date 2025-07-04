@@ -41,9 +41,9 @@
 	"foreignKeys": [],
 	"name": "app_approver_list",
 	"description": null,
-	"ver": "25.07.04.0839",
+	"ver": "25.07.04.1622",
 	"enableAudit": false,
-	"includeDataInPackage": false,
+	"includeDataInPackage": true,
 	"package": "6cd1d80d-0487-4f8b-ae76-5c06de706411",
 	"rolesRead": [],
 	"rolesWrite": []
